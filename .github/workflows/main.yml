@@ -12,6 +12,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-       - name: 'printing folder content'
-          run: ls
+   steps:
+     - name: 'printing folder content'
+       run: ls
